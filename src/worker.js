@@ -4,7 +4,7 @@ export default {
       const path = url.pathname;
   
       const githubUser = "doi2523";
-      const repo = "cdn-locketdio";
+      const repo = "locketcdn";
       const branch = "main";
   
       const targetUrl = `https://cdn.jsdelivr.net/gh/${githubUser}/${repo}@${branch}${path}`;
